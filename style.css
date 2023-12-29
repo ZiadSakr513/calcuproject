@@ -1,0 +1,166 @@
+
+input{
+    
+    background-color: #020217;
+    color: white;
+    border-radius: 6px;
+    font-size:40px;
+    
+
+}
+.results {
+    margin-left: 26%;
+    margin-bottom: 2%;
+    
+}
+
+
+
+.bg{
+    
+    background-color: rgba(5, 5, 23, 0.94);
+}
+
+p{
+    
+    color: white;
+    margin-left: 26%;
+    margin-top: 10%;
+    
+        
+}
+
+
+.allbuttons {
+    margin-left: 30%;
+    display: inline-block;
+    background-color: #212124;
+    border: solid #111112  1px;
+    padding: 15px;
+    border-radius: 20px;
+    
+    
+}
+
+button{
+    padding:7px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 8px; 
+    margin-top: 10px;
+    background-color:#d0c9c9;
+    border: solid 1px #b4b2b2
+    
+}
+
+
+
+
+
+
+
+
+#sevenbtn {
+    margin-right: 10px;
+}
+
+#eightbtn {
+    margin-right: 10px;
+}
+
+#ninebtn {
+    margin-right: 10px;
+}
+
+#fourbtn {
+    margin-right: 10px;
+}
+
+#fivebtn {
+     margin-right: 10px;
+}
+
+#sixbtn {
+     margin-right: 10px;
+}
+
+#onebtn {
+     margin-right: 10px;
+}
+
+#twobtn {
+     margin-right: 10px;
+}
+
+#threebtn {
+     margin-right: 10px;
+}
+
+#point {
+     margin-right: 14px;
+}
+
+#zero {
+     margin-right: 10px;
+}
+
+#divide {
+     margin-right: 10px;
+}
+
+#reset {
+    background-color: #131429;
+    border-color:#0b0915;
+    color: white;
+    font-family:sans-serif;
+    font-weight: 600
+}
+
+#equalbtn {
+    margin-left: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #840707;
+    border: solid #830101 2px;
+    color: white;
+}
+
+#delete {
+    background-color: #131429;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-color: #130d33;
+}
+button:hover{
+    background-color: #fff8f8;
+    transition: 0.2s;
+    
+}
+
+#delete:hover{
+    background-color: #2e3064;
+    
+}
+
+
+#reset:hover{
+    background-color: #2e3064;
+    
+}
+
+#equalbtn:hover{
+    background-color: red;
+    border-color: red;
+    
+}
+
+
+
+
+
+.lol {
+    position: fixed;
+}
+
+
